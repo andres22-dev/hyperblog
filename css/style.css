@@ -36,3 +36,23 @@ text-align: center;
  border: 2px solid #000;   
  
 }
+
+.blogp2{
+
+width: 100%;
+height: 600px;
+background-color: darkcyan;
+padding: 20px;
+display: flex;
+justify-content: center;
+align-items: center;
+}
+
+.blogp2 p{
+
+color: #fff;
+font-family: fantasy;
+font-size: 16px;
+
+
+}
